@@ -1,0 +1,322 @@
+# Copyright (C) 2024 FarmaciCase
+# This file is distributed under the same license as the FarmaciCase package.
+msgid ""
+msgstr ""
+"Project-Id-Version: FarmaciCase 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/farmacicase\n"
+"POT-Creation-Date: 2024-05-21 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI 2.7.0\n"
+"X-Domain: farmacicase\n"
+
+#. Plugin Name of the plugin
+msgid "FarmaciCase"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sistema per il monitoraggio dei farmaci nelle
+
+#. Description of the plugin
+msgid "Sistema per il monitoraggio dei farmaci nelle Case di Comunità"
+msgstr ""
+
+#: farmacicase.php:50
+msgid "FarmaciCase Admin"
+msgstr ""
+
+#: farmacicase.php:60
+msgid "FarmaciCase Responsabile"
+msgstr ""
+
+#: farmacicase.php:69
+msgid "FarmaciCase Medico"
+msgstr ""
+
+#: farmacicase.php:124
+msgid "Non hai i permessi per accedere a questa applicazione."
+msgstr ""
+
+#: farmacicase.php:196
+msgid "FarmaciCase - Dashboard"
+msgstr ""
+
+#: farmacicase.php:197
+msgid "Benvenuto nel sistema di gestione dei farmaci per le Case di Comunità."
+msgstr ""
+
+#: farmacicase.php:201
+msgid "Accesso rapido"
+msgstr ""
+
+#: farmacicase.php:202
+msgid "Vai all'applicazione"
+msgstr ""
+
+#: farmacicase.php:223
+msgid "Impostazioni"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:183
+msgid "Permessi insufficienti"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:198
+msgid "Non puoi visualizzare questa casa"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:217
+msgid "Nessuna casa assegnata"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:253
+msgid "Non puoi gestire questa casa"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:273
+msgid "Nome commerciale e principio attivo sono obbligatori"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:295
+msgid "Errore nel salvare il farmaco"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:314
+msgid "Farmaco salvato con successo"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:330
+msgid "ID farmaco mancante"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:342
+msgid "Farmaco non trovato"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:347
+msgid "Non puoi gestire questa casa"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:359
+msgid "Errore nell'eliminare il farmaco"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:364
+msgid "Farmaco eliminato con successo"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:536
+msgid "Casa di Comunità non trovata"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:594
+msgid "Campi obbligatori mancanti"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:606
+msgid "Errore nel creare la Casa di Comunità"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:644
+msgid "Casa di Comunità non trovata"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:692
+msgid "Errore nell'aggiornare la Casa di Comunità"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:723
+msgid "Casa di Comunità non trovata"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:735
+msgid "Errore nell'eliminare la Casa di Comunità"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:740
+msgid "Casa di Comunità eliminata con successo"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:775
+msgid "Farmaco non trovato"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:862
+msgid "Nome commerciale e principio attivo sono obbligatori"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:872
+msgid "Casa di Comunità non trovata"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:884
+msgid "Errore nel creare il farmaco"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:916
+msgid "Farmaco non trovato"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:929
+msgid "Casa di Comunità non trovata"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:992
+msgid "Errore nell'aggiornare il farmaco"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:1023
+msgid "Farmaco non trovato"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:1041
+msgid "Errore nell'eliminare il farmaco"
+msgstr ""
+
+#: includes/class-farmacicase-api.php:1046
+msgid "Farmaco eliminato con successo"
+msgstr ""
+
+#: public/partials/login-form.php:19
+msgid "Sistema per il monitoraggio dei farmaci nelle Case di Comunità"
+msgstr ""
+
+#: public/partials/login-form.php:24
+msgid "Credenziali non corrette. Riprova."
+msgstr ""
+
+#: public/partials/login-form.php:31
+msgid "Email"
+msgstr ""
+
+#: public/partials/login-form.php:36
+msgid "Password"
+msgstr ""
+
+#: public/partials/login-form.php:41
+msgid "Ricordami"
+msgstr ""
+
+#: public/partials/login-form.php:48
+msgid "Accedi"
+msgstr ""
+
+#: public/partials/login-form.php:54
+msgid "Password dimenticata?"
+msgstr ""
+
+#: public/partials/login-form.php:61
+msgid "Italiano"
+msgstr ""
+
+#: public/partials/login-form.php:62
+msgid "English"
+msgstr ""
+
+#: public/partials/login-form.php:63
+msgid "Español"
+msgstr ""
+
+#: admin/partials/settings-page.php:28
+msgid "Impostazioni salvate con successo."
+msgstr ""
+
+#: admin/partials/settings-page.php:41
+msgid "Notifica di test inviata con successo!"
+msgstr ""
+
+#: admin/partials/settings-page.php:44
+msgid "Errore nell'invio della notifica di test."
+msgstr ""
+
+#: admin/partials/settings-page.php:56
+msgid "FarmaciCase - Impostazioni"
+msgstr ""
+
+#: admin/partials/settings-page.php:72
+msgid "Email Mittente Notifiche"
+msgstr ""
+
+#: admin/partials/settings-page.php:77
+msgid "Indirizzo email da cui verranno inviate le notifiche."
+msgstr ""
+
+#: admin/partials/settings-page.php:84
+msgid "Orario Invio Notifiche"
+msgstr ""
+
+#: admin/partials/settings-page.php:89
+msgid "Orario di invio delle notifiche settimanali (ogni lunedì)."
+msgstr ""
+
+#: admin/partials/settings-page.php:96
+msgid "Giorni Anticipo Scadenza"
+msgstr ""
+
+#: admin/partials/settings-page.php:101
+msgid "Numero di giorni prima della scadenza per cui inviare le notifiche."
+msgstr ""
+
+#: admin/partials/settings-page.php:109
+msgid "Salva Impostazioni"
+msgstr ""
+
+#: admin/partials/settings-page.php:118
+msgid "Test Notifiche"
+msgstr ""
+
+#: admin/partials/settings-page.php:120
+msgid "Invia una notifica di test per verificare che il sistema di notifiche funzioni correttamente."
+msgstr ""
+
+#: admin/partials/settings-page.php:126
+msgid "Invia Notifica Test"
+msgstr ""
+
+#: admin/partials/settings-page.php:134
+msgid "Database"
+msgstr ""
+
+#: admin/partials/settings-page.php:136
+msgid "Controlla lo stato delle tabelle del database."
+msgstr ""
+
+#: admin/partials/settings-page.php:154
+msgid "Tutte le tabelle sono presenti nel database."
+msgstr ""
+
+#: admin/partials/settings-page.php:157
+msgid "Alcune tabelle sono mancanti. Prova a disattivare e riattivare il plugin."
+msgstr ""
+
+#: admin/partials/settings-page.php:162
+msgid "OK"
+msgstr ""
+
+#: admin/partials/settings-page.php:162
+msgid "Mancante"
+msgstr ""
+
+#: admin/partials/settings-page.php:171
+msgid "Info"
+msgstr ""
+
+#: admin/partials/settings-page.php:173
+msgid "Versione Plugin:"
+msgstr ""
+
+#: admin/partials/settings-page.php:176
+msgid "Versione WordPress:"
+msgstr ""
+
+#: admin/partials/settings-page.php:179
+msgid "Versione PHP:"
+msgstr ""
+
+#: admin/partials/settings-page.php:182
+msgid "Versione MySQL:"
+msgstr ""

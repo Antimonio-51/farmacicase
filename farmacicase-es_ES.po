@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FarmaciCase 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/farmacicase\n"
+"POT-Creation-Date: 2024-05-21 12:00:00+00:00\n"
+"PO-Revision-Date: 2025-05-22 17:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Domain: farmacicase\n"
+
+msgid "FarmaciCase"
+msgstr "FarmaciCase"
+
+msgid "Sistema per il monitoraggio dei farmaci nelle Case di Comunità"
+msgstr "Sistema para el seguimiento de medicamentos en Casas de Comunidad"
+
+msgid "FarmaciCase Admin"
+msgstr "FarmaciCase Admin"
+
+msgid "FarmaciCase Responsabile"
+msgstr "FarmaciCase Responsable"
+
+msgid "FarmaciCase Medico"
+msgstr "FarmaciCase Médico"
+
+msgid "Non hai i permessi per accedere a questa applicazione."
+msgstr "No tienes permisos para acceder a esta aplicación."
+
+msgid "FarmaciCase - Dashboard"
+msgstr "FarmaciCase - Panel de Control"
+
+msgid "Benvenuto nel sistema di gestione dei farmaci per le Case di Comunità."
+msgstr "Bienvenido al sistema de gestión de medicamentos para Casas de Comunidad."
+
+msgid "Accesso rapido"
+msgstr "Acceso rápido"
+
+msgid "Vai all'applicazione"
+msgstr "Ir a la aplicación"
+
+msgid "Impostazioni"
+msgstr "Configuración"
+
+msgid "Permessi insufficienti"
+msgstr "Permisos insuficientes"
+
+msgid "Non puoi visualizzare questa casa"
+msgstr "No puedes ver esta casa"
+
+msgid "Nessuna casa assegnata"
+msgstr "No hay casas asignadas"
+
+msgid "Non puoi gestire questa casa"
+msgstr "No puedes gestionar esta casa"
+
+msgid "Nome commerciale e principio attivo sono obbligatori"
+msgstr "El nombre comercial y el principio activo son obligatorios"
+
+msgid "Errore nel salvare il farmaco"
+msgstr "Error al guardar el medicamento"
+
+msgid "Farmaco salvato con successo"
+msgstr "Medicamento guardado con éxito"
+
+msgid "ID farmaco mancante"
+msgstr "ID de medicamento faltante"
+
+msgid "Farmaco non trovato"
+msgstr "Medicamento no encontrado"
+
+msgid "Errore nell'eliminare il farmaco"
+msgstr "Error al eliminar el medicamento"
+
+msgid "Farmaco eliminato con successo"
+msgstr "Medicamento eliminado con éxito"
+
+msgid "Casa di Comunità non trovata"
+msgstr "Casa de Comunidad no encontrada"
+
+msgid "Campi obbligatori mancanti"
+msgstr "Faltan campos obligatorios"
+
+msgid "Errore nel creare la Casa di Comunità"
+msgstr "Error al crear la Casa de Comunidad"
+
+msgid "Errore nell'aggiornare la Casa di Comunità"
+msgstr "Error al actualizar la Casa de Comunidad"
+
+msgid "Errore nell'eliminare la Casa di Comunità"
+msgstr "Error al eliminar la Casa de Comunidad"
+
+msgid "Casa di Comunità eliminata con successo"
+msgstr "Casa de Comunidad eliminada con éxito"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Ricordami"
+msgstr "Recordarme"
+
+msgid "Accedi"
+msgstr "Acceder"
+
+msgid "Password dimenticata?"
+msgstr "¿Olvidaste tu contraseña?"
+
+msgid "Italiano"
+msgstr "Italiano"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Español"
+msgstr "Español"
+
+msgid "Impostazioni salvate con successo."
+msgstr "Configuración guardada con éxito."
+
+msgid "Notifica di test inviata con successo!"
+msgstr "¡Notificación de prueba enviada con éxito!"
+
+msgid "Errore nell'invio della notifica di test."
+msgstr "Error al enviar la notificación de prueba."
+
+msgid "FarmaciCase - Impostazioni"
+msgstr "FarmaciCase - Configuración"
+
+msgid "Email Mittente Notifiche"
+msgstr "Email Remitente Notificaciones"
+
+msgid "Indirizzo email da cui verranno inviate le notifiche."
+msgstr "Dirección de correo electrónico desde la que se enviarán las notificaciones."
+
+msgid "Orario Invio Notifiche"
+msgstr "Hora de Envío de Notificaciones"
+
+msgid "Orario di invio delle notifiche settimanali (ogni lunedì)."
+msgstr "Hora de envío de las notificaciones semanales (cada lunes)."
+
+msgid "Giorni Anticipo Scadenza"
+msgstr "Días de Anticipación de Caducidad"
+
+msgid "Numero di giorni prima della scadenza per cui inviare le notifiche."
+msgstr "Número de días antes del vencimiento para enviar notificaciones."
+
+msgid "Salva Impostazioni"
+msgstr "Guardar Configuración"
+
+msgid "Test Notifiche"
+msgstr "Probar Notificaciones"
+
+msgid "Invia una notifica di test per verificare che il sistema di notifiche funzioni correttamente."
+msgstr "Enviar una notificación de prueba para verificar que el sistema de notificaciones funciona correctamente."
+
+msgid "Invia Notifica Test"
+msgstr "Enviar Notificación de Prueba"
+
+msgid "Database"
+msgstr "Base de datos"
+
+msgid "Controlla lo stato delle tabelle del database."
+msgstr "Comprueba el estado de las tablas de la base de datos."
+
+msgid "Tutte le tabelle sono presenti nel database."
+msgstr "Todas las tablas están presentes en la base de datos."
+
+msgid "Alcune tabelle sono mancanti. Prova a disattivare e riattivare il plugin."
+msgstr "Faltan algunas tablas. Intenta desactivar y reactivar el plugin."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Mancante"
+msgstr "Faltante"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Versione Plugin:"
+msgstr "Versión del Plugin:"
+
+msgid "Versione WordPress:"
+msgstr "Versión de WordPress:"
+
+msgid "Versione PHP:"
+msgstr "Versión de PHP:"
+
+msgid "Versione MySQL:"
+msgstr "Versión de MySQL:"
